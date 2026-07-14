@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+.DS_Store
+.ipynb_checkpoints/
+paper_draft/
+example_paper_reference/
