@@ -1,4 +1,0 @@
-method,support_policy,coord_policy,feature_set,model,model_params,effc_mean_task_RMSE,effc_pooled_RMSE,support_maps
-visible_endpoint_baseline,none,normalized_step,direction,none,none,0.010579475799745526,0.014382044062947848,
-target_visible_RBF_surface,target_visible_only,uniform_point_order_beta,Nc_beta,RBFInterpolator,"thin_plate_spline,smoothing=1e-5",0.020615128408223056,0.030303010484578757,
-support_map_residual,single_support::ASME-94-GT-73,normalized_step,full,ExtraTrees,"n=160,maxfeat=0.85,leaf=1",0.002015243345624905,0.0027895871532916663,ASME-94-GT-73

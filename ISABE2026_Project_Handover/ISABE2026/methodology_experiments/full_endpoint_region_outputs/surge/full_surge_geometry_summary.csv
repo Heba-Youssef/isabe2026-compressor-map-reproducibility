@@ -1,3 +1,0 @@
-method,support_policy,coord_policy,feature_set,model,model_params,Wc2_mean_task_RMSE,Rc_mean_task_RMSE,Wc2_pooled_RMSE,Rc_pooled_RMSE,mean_task_combined_score,pooled_combined_score,support_maps
-visible_endpoint_baseline,none,normalized_step,direction,none,none,0.012132907766356008,0.05146294123559756,0.017040797265051304,0.06374851904162153,0.005986669249831869,0.007811067000051435,
-support_map_residual,single_support::Rad1kg,normalized_step,full,ExtraTrees,"n=140,maxfeat=0.85,leaf=2",0.008487861986328992,0.022897541604188085,0.0136798298733968,0.038188426426619515,0.0032707150732263083,0.005361320225435716,Rad1kg

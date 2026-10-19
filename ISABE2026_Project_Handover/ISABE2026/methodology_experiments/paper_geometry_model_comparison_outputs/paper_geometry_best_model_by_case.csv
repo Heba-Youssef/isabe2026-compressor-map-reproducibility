@@ -1,6 +1,0 @@
-case,support_policy,coord_policy,feature_set,model,model_params,Rc_RMSE,Wc2_RMSE,Rc_Wc2_score,n_tasks
-choke_region,geometry_nearest_3,normalized_step,full,ExtraTrees,"n=140,maxfeat=0.85,leaf=1",0.003747643722889719,0.0014939299934609886,0.0005558944894681087,7
-intermediate_speed,all_support,inflection_arc,full,ExtraTrees,"n=140,maxfeat=0.85,leaf=1",0.06432370085049237,0.01757487120035362,0.007956271336585668,5
-lower_exterior_speed,geometry_nearest_3,linspace,shape,ExtraTrees,"n_estimators=160, max_features=0.85, min_samples_leaf=2",0.030000015709636858,0.011956150917337191,0.004449402286349262,1
-surge_region,target_only,normalized_step,full,LinearRegression,default,0.019797104004074164,0.007214853249017794,0.002803536933997814,7
-upper_exterior_speed,geometry_nearest_3,wc2_progress,shape,ExtraTrees,"n=140,maxfeat=0.85,leaf=1",0.052104036975352416,0.008580216829023482,0.005333495705738121,1

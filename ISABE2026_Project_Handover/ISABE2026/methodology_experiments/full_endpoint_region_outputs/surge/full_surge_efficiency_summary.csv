@@ -1,4 +1,0 @@
-method,support_policy,coord_policy,feature_set,model,model_params,effc_mean_task_RMSE,effc_pooled_RMSE,support_maps
-visible_endpoint_baseline,none,normalized_step,direction,none,none,0.008004067053574529,0.008876954754547597,
-target_visible_RBF_surface,target_visible_only,uniform_point_order_beta,Nc_beta,RBFInterpolator,"thin_plate_spline,smoothing=1e-5",0.014118513253409123,0.014861403446100182,
-support_map_residual,single_support::T100rad,normalized_step,direction,ExtraTrees,"n=160,maxfeat=0.85,leaf=2",0.0039642358983722915,0.005375655698517368,T100rad

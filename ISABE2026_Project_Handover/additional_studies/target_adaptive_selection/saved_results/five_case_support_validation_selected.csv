@@ -1,6 +1,0 @@
-case,target_mode,support_policy,coord_policy,feature_set,model,model_params,Rc_RMSE,Wc2_RMSE,Rc_Wc2_score,n_validation_tasks,support_cv_rank_score,support_cv_rank_rc
-intermediate_speed,wc2_rc,target_only,linspace,full,GradientBoosting,"n=120,lr=0.08,depth=2",0.0628735956502557,0.0215933639498354,0.0070785639251453,7,1.0,9.0
-lower_exterior_speed,wc2_rc,geometry_nearest_3,arc_length,shape,ExtraTrees,"n=140,maxfeat=0.85,leaf=1",0.1521396129356116,0.1072459811454581,0.0235421882123329,7,1.0,2.0
-upper_exterior_speed,wc2_rc,geometry_nearest_3,wc2_progress,full,GradientBoosting,"n=120,lr=0.04,depth=2",0.2567103436372943,0.1120924025769687,0.0274236033381502,7,1.0,2.0
-choke_region,wc2_rc,geometry_nearest_3,normalized_step,full,RandomForest,"n=140,maxfeat=0.85,leaf=2",0.0076827909115167,0.0051823656814574,0.001149577914721,21,1.0,3.0
-surge_region,wc2_rc,all_support,raw_step,full,RandomForest,"n=140,maxfeat=0.85,leaf=2",0.0306306984572922,0.0212989969085425,0.0041860198709593,21,1.0,18.0

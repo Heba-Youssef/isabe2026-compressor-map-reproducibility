@@ -1,8 +1,0 @@
-case,case_label,masking_scope,n_masking_runs,hidden_points_per_masking_run,n_RMSE_groups,points_per_RMSE_group,total_evaluated_points,target_labels_available_for_endpoint_training
-intermediate_speed,Missing intermediate speed line,one complete interior speed line per task,5,20,5,20,100,not applicable
-lower_exterior_speed,Missing lower exterior speed line,complete lowest speed line,1,20,1,20,20,not applicable
-upper_exterior_speed,Missing upper exterior speed line,complete highest speed line,1,20,1,20,20,not applicable
-individual_speed_choke_region,Individual speed choke region,one choke endpoint per task; other target endpoints remain visible,7,5,7,5,35,other target speed lines
-individual_speed_surge_region,Individual speed surge region,one surge endpoint per task; other target endpoints remain visible,7,5,7,5,35,other target speed lines
-full_choke_region,Full choke region,choke endpoints of every target speed line simultaneously,1,35,7,5,35,none; support maps only
-full_surge_region,Full surge region,surge endpoints of every target speed line simultaneously,1,35,7,5,35,none; support maps only

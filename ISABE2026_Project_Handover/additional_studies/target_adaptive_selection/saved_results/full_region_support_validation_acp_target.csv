@@ -1,3 +1,0 @@
-case,support_policy,coord_policy,feature_set,model,model_params,Rc_RMSE,Wc2_RMSE,Rc_Wc2_score,n_validation_maps,support_cv_rank_score,target_Rc_RMSE,target_Wc2_RMSE,target_Rc_Wc2_score,target_support_maps
-full_choke_region,visible_geometry_nearest_3,normalized_step,direction,ExtraTrees,"n=140,maxfeat=0.85,leaf=1",0.0145823188471967,0.0142773107760728,0.0019457851762327,7,1.0,0.008901453486471157,0.004005672602094027,0.0014102152187175673,Rad1kg;Pep82r15;ASME-94-GT-73
-full_surge_region,all_support,normalized_step,full,GradientBoosting,"n=120,lr=0.04,depth=2",0.0434884196711727,0.0243150554191716,0.0048532993605331,7,1.0,0.04738996967651744,0.01731131915910126,0.006719021772689655,ASME-94-GT-73;Pep82r15;Rad1kg;RadComp10-AIAA-79-1159;RadComp9-AIAA-79-1159;T100rad;T800_c
