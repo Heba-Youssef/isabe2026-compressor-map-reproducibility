@@ -1,0 +1,6 @@
+case,support_policy,coord_policy,feature_set,model,model_params,effc_RMSE,effc_NRMSE,effc_MAPE_percent
+intermediate_speed,geometry_nearest_3,linspace,full,LinearRegression,default,0.004857978519861419,0.011414691416296013,0.565677633181329
+lower_exterior_speed,all_support,rc_progress,shape,ExtraTrees,"n=160,maxfeat=0.85,leaf=1",0.01047389504833022,0.02461029405843704,1.6388643635693256
+upper_exterior_speed,single_selected_support,wc2_progress,shape,GradientBoosting,"n=160,lr=0.08,depth=2",0.004202783724640715,0.009875193788953488,0.4690945892799244
+choke_region,all_support,normalized_step,full,RandomForest,"n=160,maxfeat=0.85,leaf=2",0.0023121937979563084,0.005432913832459194,0.3694578512395383
+surge_region,target_only,raw_step,direction,Ridge,alpha=1.0,0.004731593503164437,0.01111772716267872,0.5455830620020576

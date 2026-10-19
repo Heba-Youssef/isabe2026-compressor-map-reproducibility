@@ -1,0 +1,7 @@
+quantity,masking_scenario,method,Rc_mean_task_RMSE,Rc_pooled_RMSE,Wc2_mean_task_RMSE,Wc2_pooled_RMSE,effc_mean_task_RMSE,effc_pooled_RMSE
+geometry_selected,leave_one_speedline_out,LinearRegression,0.0197971040040741,0.02464170074476747,0.0072148532490177,0.009096459271734931,,
+geometry_selected,all_speedlines_simultaneous,ExtraTrees,0.022897541604188085,0.038188426426619515,0.008487861986328992,0.0136798298733968,,
+efficiency_RBF_surface,leave_one_speedline_out,RBFInterpolator,,,,,0.0024958269817885,0.0029011301233366
+efficiency_RBF_surface,all_speedlines_simultaneous,RBFInterpolator,,,,,0.014118513253409123,0.014861403446100182
+efficiency_residual,leave_one_speedline_out,casewise selected,,,,,0.0047315935031644,0.0057185425276928
+efficiency_residual,all_speedlines_simultaneous,ExtraTrees,,,,,0.0039642358983722915,0.005375655698517368
